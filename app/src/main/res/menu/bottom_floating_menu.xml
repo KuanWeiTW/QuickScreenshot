@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/floating_scroll"
+        android:icon="@drawable/ic_scroll_down_32dp"
+        android:title="@string/title_scroll"
+        android:checkable="false"/>
+
+    <item
+        android:id="@+id/floating_edit"
+        android:icon="@drawable/ic_image_editing_32dp"
+        android:title="@string/title_edit"
+        android:checkable="false"/>
+
+    <item
+        android:id="@+id/floating_share"
+        android:icon="@drawable/ic_share_32dp"
+        android:title="@string/title_share"
+        android:checkable="false"/>
+    <item
+        android:id="@+id/floating_save"
+        android:icon="@drawable/ic_save_32dp"
+        android:title="@string/title_save"
+        android:checkable="false"/>
+
+</menu>

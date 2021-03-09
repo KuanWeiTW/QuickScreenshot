@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quick Screenshot</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_screenshot">Screenshot</string>
+    <string name="title_scroll">Scroll</string>
+    <string name="title_save">Save</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_share">Share</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="setting_step_1">Please enable "Display over other apps" of this app ( Quick Screenshot )</string>
+    <string name="setting_step_2">Please enable the accessibility button of this app</string>
+    <string name="click_to_go">Click to Go!</string>
+</resources>

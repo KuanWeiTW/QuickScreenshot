@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快速截圖</string>
+    <string name="title_setting">設定</string>
+    <string name="title_dashboard">面板</string>
+    <string name="title_screenshot">截圖</string>
+    <string name="title_scroll">下滑</string>
+    <string name="title_save">儲存</string>
+    <string name="title_edit">編輯</string>
+    <string name="title_share">分享</string>
+    <string name="title_cancel">取消</string>
+    <string name="setting_step_1">允許畫面重疊</string>
+    <string name="setting_step_2">打開無障礙設定，並將快速截圖的快速鍵打開</string>
+    <string name="click_to_go">點我過去!</string>
+</resources>
